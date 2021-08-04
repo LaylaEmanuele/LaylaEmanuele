@@ -79,3 +79,9 @@ Here are some ideas to get you started:
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/layla-emanuele/">LinkedIn</a>.
 - 📒 My <a href="">Portfolio</a>
 
+</p>
+
+  ![Snake animation](https://github.com/t4lu/t4lu/blob/output/github-contribution-grid-snake.svg)
+
+<hr>
+
