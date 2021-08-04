@@ -57,13 +57,15 @@ Here are some ideas to get you started:
       height="40"
     />
   </a>
-  <a href="https://www.postgresql.org" target="_blank">
+ <!-- 
+ <a href="https://www.postgresql.org" target="_blank">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"
       width="40"
       height="40"
     />
   </a>
+ -->
   <a href="https://reactjs.org/" target="_blank">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"
