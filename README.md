@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
+ <div>
+  <a href="https://github.com/LaylaEmanuele">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laylaemanuele&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laylaemanuele&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 ### About
 
 - 🌱 Learning more about and studying: **Swift, SwiftUI, Nest.Js, Next.Js & React**.
@@ -79,9 +85,9 @@ Here are some ideas to get you started:
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/layla-emanuele/">LinkedIn</a>.
 - 📒 My <a href="">Portfolio</a>
 
-</p>
-
-  ![Snake animation](https://github.com/t4lu/t4lu/blob/output/github-contribution-grid-snake.svg)
-
-<hr>
+<div> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 
