@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### About
 
-- 🌱 Learning more about and studying: **Nest.Js, Next.Js, React & React Native**.
+- 🌱 Learning more about and studying: **Swift, SwiftUI, Nest.Js, Next.Js, React & React Native**.
 - 🤝 Freelancer and open to work
 
 ### Languages and Tools
