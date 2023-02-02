@@ -15,17 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height = "30px"></h2>
+## Hi there! <img src="https://i.postimg.cc/t4Bg9mYd/girl-anime-hi.gif" width="30px" height = "30px"></h2>
 
  <div>
   <a href="https://github.com/LaylaEmanuele">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laylaemanuele&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laylaemanuele&layout=compact&langs_count=7&theme=dracula"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LaylaEmanuele" alt="laylaemanuele" />
 </div>
 
 ### About
 
-- 🌱 Learning more about and studying: **Swift, SwiftUI, UIKit, SpriteKit, Nest.Js, Next.Js & React**.
+- 🌱 Learning more about, work and studying: **Swift, SwiftUI, UIKit, SpriteKit, Nest.Js, Next.Js & React**.
 - 🤝 Freelancer and open to work
 
 ### Languages and Tools
@@ -147,10 +148,3 @@ Here are some ideas to get you started:
 
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/layla-emanuele/">LinkedIn</a>.
 <!-- - 📒 My <a href="">Portfolio</a> -->
-
-<div> 
- 
-  ![Snake animation](https://github.com/laylaemanuele/laylaemanuele/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
-
