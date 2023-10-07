@@ -22,15 +22,15 @@ Here are some ideas to get you started:
   <a href="https://github.com/LaylaEmanuele">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laylaemanuele&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laylaemanuele&layout=compact&langs_count=7&theme=dracula"/>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LaylaEmanuele" alt="laylaemanuele" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LaylaEmanuele" alt="laylaemanuele" />
 </div>
 
-### About
+## About
 
-- 🌱 Learning more about, work and studying: **Swift, SwiftUI, UIKit, SpriteKit, Nest.Js, Next.Js & React**.
+- 🌱 Learning more about, working, and studying: **Swift, SwiftUI, UIKit, SpriteKit, Nest.Js, Next.Js & React**.
 - 🤝 Freelancer and open to work
 
-### Languages and Tools
+## Languages and Tools
 
 <br/>
 
@@ -92,7 +92,7 @@ Here are some ideas to get you started:
       height="40"
     />
   </a>
- <!-- 
+ 
  <a href="https://www.postgresql.org" target="_blank">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"
@@ -100,7 +100,7 @@ Here are some ideas to get you started:
       height="40"
     />
   </a>
- -->
+
   <a href="https://reactjs.org/" target="_blank">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"
@@ -145,7 +145,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-### Find me around the web 🌎:
+## Find me around the web 🌎:
 
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/layla-emanuele/">LinkedIn</a>.
 <!-- - 📒 My <a href="">Portfolio</a> -->
