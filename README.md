@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Hi there! 
-<img src="https://i.postimg.cc/t4Bg9mYd/girl-anime-hi.gif" width="30px" height = "30px"></h2>
+<img src="https://i.postimg.cc/t4Bg9mYd/girl-anime-hi.gif" width="50px" height = "50px"></h2>
 
  <div>
   <a href="https://github.com/LaylaEmanuele">
