@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there! 
+# Hi there! 
 <img src="https://i.postimg.cc/t4Bg9mYd/girl-anime-hi.gif" width="50px" height = "50px"></h2>
 
  <div>
@@ -25,12 +25,12 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LaylaEmanuele" alt="laylaemanuele" />
 </div>
 
-## About
+# About
 
 - 🌱 Learning more about, working, and studying: **Swift, SwiftUI, UIKit, SpriteKit, Nest.Js, Next.Js & React**.
 - 🤝 Freelancer and open to work
 
-## Languages and Tools
+# Languages and Tools
 
 <br/>
 
@@ -145,7 +145,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-## Find me around the web 🌎:
+# Find me around the web 🌎:
 
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/layla-emanuele/">LinkedIn</a>.
 <!-- - 📒 My <a href="">Portfolio</a> -->
